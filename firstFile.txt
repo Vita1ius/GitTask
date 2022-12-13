@@ -2,8 +2,8 @@ textFirstFile changeStep7
 textFirstFile changeStep7
 textFirstFile changeStep8
 textFirstFile changeStep8
-textFirstFile
-textFirstFile
+textFirstFile changeStep18
+textFirstFile changeStep18
 textFirstFile
 textFirstFile
 textFirstFile
